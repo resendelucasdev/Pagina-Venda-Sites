@@ -4,7 +4,7 @@ O código desenvolvido é uma página web responsiva e moderna, destinada a prom
 
 Pontos Importantes do Código:
 
-Estrutura HTML Simples e Organizada: O HTML segue uma estrutura clara e bem definida. As tags semânticas, como <header>, <section>, e <footer>, foram usadas para organizar o conteúdo de maneira que facilite a acessibilidade e melhore o SEO.
+Estrutura HTML Simples e Organizada: O HTML segue uma estrutura clara e bem definida. As tags semânticas, como (header), (section), e (footer), foram usadas para organizar o conteúdo de maneira que facilite a acessibilidade e melhore o SEO.
 
 Hero Section com Imagem de Fundo: A seção principal da página, chamada de .hero, contém uma imagem de fundo que cobre toda a área utilizando o CSS background-image e background-size: cover. Isso cria um impacto visual forte, alinhado ao padrão moderno de design de sites.
 
@@ -24,7 +24,7 @@ The developed code is a responsive and modern web page designed to promote the s
 
 Key Points of the Code:
 
-Simple and Organized HTML Structure: The HTML follows a clear and well-defined structure. Semantic tags like <header>, <section>, and <footer> were used to organize the content, improving both accessibility and SEO.
+Simple and Organized HTML Structure: The HTML follows a clear and well-defined structure. Semantic tags like (header), (section), and (footer) were used to organize the content, improving both accessibility and SEO.
 
 Hero Section with Background Image: The main section of the page, named .hero, contains a background image that covers the entire area using CSS properties background-image and background-size: cover. This creates a strong visual impact, aligned with modern web design standards.
 
